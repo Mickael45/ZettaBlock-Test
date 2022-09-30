@@ -1,0 +1,542 @@
+{
+  "record": [
+    {
+      "id": "nSaICHtr3VQ0YUpDrqK4I",
+      "createdAt": 1664554287409,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "EfK6Yxg4hQyKTWTDKKclu",
+      "createdAt": 1664554304802,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "qeScLqw-CifVZ5YrJ5RAA",
+      "createdAt": 1664554305189,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "zdJQSLJp9nz2sI_9xGsPi",
+      "createdAt": 1664554305535,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "p7MgqwD5xfqKeEZngVApi",
+      "createdAt": 1664554305817,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "HiiUYALrkOLhe-b9bul92",
+      "createdAt": 1664554306097,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "SJry0t_SL7KAixiBH7Mq2",
+      "createdAt": 1664554516644,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "C7IFaj09pXRsl33XFyBqV",
+      "createdAt": 1664554520349,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "n_gDFB2qZK5nffK0TKtAC",
+      "createdAt": 1664554529068,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "Hgfo3vYjatiEgmA8nxOdm",
+      "createdAt": 1664554904896,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "ql39Y5oxoyvRKmHf3VQui",
+      "createdAt": 1664554941120,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "fN6BbLuhm-mzjxSGdPXY_",
+      "createdAt": 1664554982397,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "ra38j7DTXh-dm-iaj5OdE",
+      "createdAt": 1664555046422,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "jsK-LgP8M4CBp-GzOb3Ab",
+      "createdAt": 1664555358715,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "u_iK_qi9C9I_mCyvt_x4M",
+      "createdAt": 1664555406673,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "yQY3MMaO9G-J3vyg-0YBn",
+      "createdAt": 1664555407550,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "3DvebtrXxkvNCi6GvEVAV",
+      "createdAt": 1664555407934,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "AQsELkSEDaJZwHT0PCXJ8",
+      "createdAt": 1664555408092,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "R4QgzyHyzzUIwjnCbo-Ve",
+      "createdAt": 1664555408299,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "kr6-ukGbahE3w4DSdZ-le",
+      "createdAt": 1664555408418,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "c4VYhT5mL1qzcZlZ8lAjm",
+      "createdAt": 1664555408588,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "UQ5UoyQmgd3kcAyfJxgOA",
+      "createdAt": 1664555559255,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "wZH_xqGFqnz44RJUOntP6",
+      "createdAt": 1664555737181,
+      "mentions": [],
+      "emoticons": [],
+      "links": [
+        {
+          "url": "http://www.nbcolympics.com",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "avvcrBZdjZ-NoD-47tP5a",
+      "createdAt": 1664555803888,
+      "mentions": [],
+      "emoticons": [],
+      "links": [
+        {
+          "url": "http://www.nbcolympics.com",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "ZlGHF1HUicfEQPCcgmDfy",
+      "createdAt": 1664555832445,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "V1KC6wNCKN-s7cX8Em4KK",
+      "createdAt": 1664557146476,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "MiKZ1kQJLFOgNX54Z0fBn",
+      "createdAt": 1664557158815,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "2OBJzv242KzRi7vQxy6Yl",
+      "createdAt": 1664557162941,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "4nMS6xNGfAGZpcXoNpE6q",
+      "createdAt": 1664557164638,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "yAj0YXX83ST6tX1vndMYY",
+      "createdAt": 1664557164826,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "xLTSr-SibMQYgeELvE21S",
+      "createdAt": 1664557164981,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "Im3XtJhPVktPuwdRczWxI",
+      "createdAt": 1664557165119,
+      "mentions": [
+        "chris"
+      ],
+      "emoticons": [],
+      "links": []
+    },
+    {
+      "id": "Rrg2zG2nsAkqsIRp_qB89",
+      "createdAt": 1664557167356,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "6kjg-_JXM095pVXJ6dfQ5",
+      "createdAt": 1664557167513,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "eamyOFfIVIUs_JbVXujTa",
+      "createdAt": 1664557167683,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "EoLWFR5KTPOZNDMsKev68",
+      "createdAt": 1664557167827,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "peixWwwh-Tlm0L1aZkm9K",
+      "createdAt": 1664557167983,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "wncqYX798E91XJuYC4PTe",
+      "createdAt": 1664557168142,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "Ua6xZE8kbSFa-42GMalgH",
+      "createdAt": 1664557168290,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "5RSJUU_MVVQjl1WQfmNOc",
+      "createdAt": 1664557168433,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "0t9_nwFK5fCKlgcrFcri_",
+      "createdAt": 1664557168601,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "MDEuCi6szZBR4CCjjrTUB",
+      "createdAt": 1664557168752,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "HbL_RDIV_hPLLvvVUOcMK",
+      "createdAt": 1664557168890,
+      "mentions": [],
+      "emoticons": [
+        "megusta",
+        "coffee"
+      ],
+      "links": []
+    },
+    {
+      "id": "YTKzyQwMvYqV2V47YeWmK",
+      "createdAt": 1664557170541,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "6dZctWn8Ncyi2yYyYJmxL",
+      "createdAt": 1664557619174,
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    },
+    {
+      "id": "mQJ0_ZAQDrtXRd1Mg665u",
+      "mentions": [
+        "bob",
+        "john"
+      ],
+      "emoticons": [
+        "success"
+      ],
+      "links": [
+        {
+          "url": "https://twitter.com/jdorfman/status/430511497475670016",
+          "title": {}
+        }
+      ]
+    }
+  ]
+}
